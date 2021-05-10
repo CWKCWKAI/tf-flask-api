@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+tensorflow
+tf-slim
+pillow
+matplotlib
